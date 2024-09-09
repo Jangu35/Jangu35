@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm currently working full time as a CAD Admin and on my bachelor's in Computer Science
+
+<ul>
+  <li>In my down time I enjoy all manner of tabletop games</li>
+  <li>I also enjoy working in Roblox and prototyping game ideas</li>
+  
+</ul>
+
 <!--
 **Jangu35/Jangu35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
